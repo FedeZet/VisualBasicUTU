@@ -1,0 +1,12 @@
+C:\Users\darkf\Desktop\Program\MesADias\bin\Debug\MesADias.exe.config
+C:\Users\darkf\Desktop\Program\MesADias\bin\Debug\MesADias.exe
+C:\Users\darkf\Desktop\Program\MesADias\bin\Debug\MesADias.pdb
+C:\Users\darkf\Desktop\Program\MesADias\bin\Debug\MesADias.xml
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.vbprojAssemblyReference.cache
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.Form1.resources
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.Resources.resources
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.vbproj.GenerateResource.cache
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.vbproj.CoreCompileInputs.cache
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.exe
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.xml
+C:\Users\darkf\Desktop\Program\MesADias\obj\Debug\MesADias.pdb

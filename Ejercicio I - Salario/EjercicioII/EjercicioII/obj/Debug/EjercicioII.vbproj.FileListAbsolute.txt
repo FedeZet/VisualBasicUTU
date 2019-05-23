@@ -1,0 +1,12 @@
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\bin\Debug\EjercicioII.exe.config
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\bin\Debug\EjercicioII.exe
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\bin\Debug\EjercicioII.pdb
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\bin\Debug\EjercicioII.xml
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.vbprojAssemblyReference.cache
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.Form1.resources
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.Resources.resources
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.vbproj.GenerateResource.cache
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.vbproj.CoreCompileInputs.cache
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.exe
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.xml
+C:\Users\darkf\Desktop\Program\EjercicioII\EjercicioII\obj\Debug\EjercicioII.pdb

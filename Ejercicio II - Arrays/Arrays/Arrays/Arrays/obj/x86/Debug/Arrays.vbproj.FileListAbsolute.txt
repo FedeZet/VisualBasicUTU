@@ -1,0 +1,9 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\bin\Debug\Arrays.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\bin\Debug\Arrays.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\bin\Debug\Arrays.xml
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Debug\Arrays.Form1.resources
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Debug\Arrays.Resources.resources
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Debug\Arrays.vbproj.GenerateResource.Cache
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Debug\Arrays.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Debug\Arrays.xml
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Debug\Arrays.pdb

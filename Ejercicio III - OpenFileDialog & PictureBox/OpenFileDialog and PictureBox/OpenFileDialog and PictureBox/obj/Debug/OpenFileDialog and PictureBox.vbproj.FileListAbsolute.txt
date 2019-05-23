@@ -1,0 +1,12 @@
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\bin\Debug\OpenFileDialog and PictureBox.exe.config
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\bin\Debug\OpenFileDialog and PictureBox.exe
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\bin\Debug\OpenFileDialog and PictureBox.pdb
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\bin\Debug\OpenFileDialog and PictureBox.xml
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog and PictureBox.vbprojAssemblyReference.cache
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog_and_PictureBox.Form1.resources
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog_and_PictureBox.Resources.resources
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog and PictureBox.vbproj.GenerateResource.cache
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog and PictureBox.vbproj.CoreCompileInputs.cache
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog and PictureBox.exe
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog and PictureBox.xml
+C:\Users\darkf\Desktop\Program\OpenFileDialog and PictureBox\OpenFileDialog and PictureBox\obj\Debug\OpenFileDialog and PictureBox.pdb

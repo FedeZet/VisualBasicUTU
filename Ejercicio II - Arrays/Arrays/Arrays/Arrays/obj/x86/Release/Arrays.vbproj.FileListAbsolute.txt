@@ -1,0 +1,18 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\bin\Release\Arrays.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\bin\Release\Arrays.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\bin\Release\Arrays.xml
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Release\Arrays.Form1.resources
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Release\Arrays.Resources.resources
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Release\Arrays.vbproj.GenerateResource.Cache
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Release\Arrays.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Release\Arrays.xml
+C:\Users\usuario\AppData\Local\Temporary Projects\Arrays\obj\x86\Release\Arrays.pdb
+C:\Users\usuario\Desktop\Arrays.exe
+C:\Users\usuario\Desktop\Arrays.pdb
+C:\Users\usuario\Desktop\Arrays.xml
+C:\Users\usuario\Desktop\Arrays\Arrays.exe
+C:\Users\usuario\Desktop\Arrays\Arrays.pdb
+C:\Users\usuario\Desktop\Arrays\Arrays.xml
+C:\Users\usuario\Desktop\Arrays\Arrays\Arrays\obj\x86\Release\Arrays.exe
+C:\Users\usuario\Desktop\Arrays\Arrays\Arrays\obj\x86\Release\Arrays.xml
+C:\Users\usuario\Desktop\Arrays\Arrays\Arrays\obj\x86\Release\Arrays.pdb

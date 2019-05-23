@@ -1,0 +1,11 @@
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\Juego.vbprojAssemblyReference.cache
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\Juego.Resources.resources
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\Juego.vbproj.GenerateResource.cache
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\Juego.vbproj.CoreCompileInputs.cache
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\Juego.Main.resources
+C:\Users\darkf\Desktop\Juego\Juego\Juego\bin\Debug\PokeRandom.exe
+C:\Users\darkf\Desktop\Juego\Juego\Juego\bin\Debug\PokeRandom.pdb
+C:\Users\darkf\Desktop\Juego\Juego\Juego\bin\Debug\PokeRandom.xml
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.exe
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.xml
+C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.pdb
