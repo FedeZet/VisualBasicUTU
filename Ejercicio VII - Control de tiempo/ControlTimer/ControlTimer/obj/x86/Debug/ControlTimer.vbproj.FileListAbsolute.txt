@@ -1,0 +1,12 @@
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\bin\Debug\ControlTimer.exe
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\bin\Debug\ControlTimer.pdb
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\bin\Debug\ControlTimer.xml
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\obj\x86\Debug\ControlTimer.Form1.resources
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\obj\x86\Debug\ControlTimer.Resources.resources
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\obj\x86\Debug\ControlTimer.vbproj.GenerateResource.Cache
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\obj\x86\Debug\ControlTimer.exe
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\obj\x86\Debug\ControlTimer.xml
+C:\Users\darkf\AppData\Local\Temporary Projects\ControlTimer\obj\x86\Debug\ControlTimer.pdb
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicio VII - Control de tiempo\ControlTimer\ControlTimer\obj\x86\Debug\ControlTimer.exe
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicio VII - Control de tiempo\ControlTimer\ControlTimer\obj\x86\Debug\ControlTimer.xml
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicio VII - Control de tiempo\ControlTimer\ControlTimer\obj\x86\Debug\ControlTimer.pdb
