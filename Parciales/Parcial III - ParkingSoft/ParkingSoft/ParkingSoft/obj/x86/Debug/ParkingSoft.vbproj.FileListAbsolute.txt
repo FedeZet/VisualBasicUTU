@@ -1,0 +1,13 @@
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\bin\Debug\ParkingSoft.exe
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\bin\Debug\ParkingSoft.pdb
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\bin\Debug\ParkingSoft.xml
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\obj\x86\Debug\ParkingSoft.Form1.resources
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\obj\x86\Debug\ParkingSoft.Resources.resources
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\obj\x86\Debug\ParkingSoft.vbproj.GenerateResource.Cache
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\obj\x86\Debug\ParkingSoft.exe
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\obj\x86\Debug\ParkingSoft.xml
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\obj\x86\Debug\ParkingSoft.pdb
+C:\Users\darkf\AppData\Local\Temporary Projects\ParkingSoft\obj\x86\Debug\ParkingSoft.RegistroVehículo.resources
+C:\Users\darkf\Documents\GitHub\Programming\Parciales\Parcial III - ParkingSoft\ParkingSoft\ParkingSoft\obj\x86\Debug\ParkingSoft.exe
+C:\Users\darkf\Documents\GitHub\Programming\Parciales\Parcial III - ParkingSoft\ParkingSoft\ParkingSoft\obj\x86\Debug\ParkingSoft.xml
+C:\Users\darkf\Documents\GitHub\Programming\Parciales\Parcial III - ParkingSoft\ParkingSoft\ParkingSoft\obj\x86\Debug\ParkingSoft.pdb

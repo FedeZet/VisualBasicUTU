@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PokeRandom.exe" version="1.0.0.0" publicKeyToken="a99ee4e268d41497" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="pikachu.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PokeRandom" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="PokeRandom.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto UAC
+             Si quiere cambiar el nivel del Control de cuentas de usuario de Windows reemplace el 
+             nodo requestedExecutionLevel por uno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Especificar el elemento requestedExecutionLevel deshabilitará la virtualización de archivos y registros. 
+            Quite este elemento si la aplicación necesita esta virtualización para la compatibilidad
+            con versiones anteriores.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PokeRandom.exe" size="347544">
+      <assemblyIdentity name="PokeRandom" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>NpOwnmnqjMWdNY8+5S/vglqG9OA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="pikachu.ico" size="26792">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Hr1R++DeAwZxdu7cUBMVdEtQmEI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Una lista de las versiones de Windows en la que se ha probado esta aplicación y
+           con la que se ha diseñado para que trabaje. Quite la marca de comentario de los elementos adecuados y Windows seleccionará 
+           automáticamente el entorno más compatible. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=COELHO-PC\darkf" issuerKeyHash="9e29e1e0aba4300699230239fcfa45a4c1fbcbae" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MQuGKr1e2bXxjcqsb1jnsGbx4Po=</DigestValue></Reference></SignedInfo><SignatureValue>JFilis+AZBjvFL+P9CLoSehZqEHqbdGCSoCDPmStUng0keUzrMJy8Ry9LLZKUzdlsP8ZAzV/8ZHJsRIB8PjZNUfiDxtCR/SzNaLUFbDEylMD3/1Mi2qGAVhEp2d+gtGTQUjNpNt9ey41NVSV8InPyXc4Wl3zJ67OWt9moUbZ4Q8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yq0MghqdnRKaYGPqcCjzz/vgaikP041jU0awlw5V2DzHVljGEIQWKiwI8NMOIp2CrSBRsZmL4U5ZQC4M63DojFfJsrCnWaSAlpeA7x93ii8CkUFgh9iz8ou9nmw7LqeRH733ukASQWMo2BquLNdd1lZM2P1YNUKkcqtrKQu6AcU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fae0f166b0e7586facca8df1b5d95ebd2a860b31" Description="" Url=""><as:assemblyIdentity name="PokeRandom.exe" version="1.0.0.0" publicKeyToken="a99ee4e268d41497" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=COELHO-PC\darkf</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AFGaBhVOmrWME+4OTM5V1T2f3lE=</DigestValue></Reference></SignedInfo><SignatureValue>AcK9RIu5dEYgyvtkkmRvENZ3txcgweaGIz9h+Ik63He7Yfg8wHys6b5TWqYyDQ3RR9TBbDSDeXqo/jljGxtlwT3z4f9FQNbuUeks7mb+7c7ku9tzVUJSh0sMUA/tfm4DK72Jsn/CGRao5GTCpCJLQPvgzRR8nNs3RhJV30kuQTc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yq0MghqdnRKaYGPqcCjzz/vgaikP041jU0awlw5V2DzHVljGEIQWKiwI8NMOIp2CrSBRsZmL4U5ZQC4M63DojFfJsrCnWaSAlpeA7x93ii8CkUFgh9iz8ou9nmw7LqeRH733ukASQWMo2BquLNdd1lZM2P1YNUKkcqtrKQu6AcU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQFzoSEQ1aT4BNosSlFMEeFTANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4AQwBPAEUATABIAE8ALQBQAEMAXABkAGEAcgBrAGYwHhcNMTkxMDI0MTcyMjExWhcNMjAxMDIzMjMyMjExWjApMScwJQYDVQQDHh4AQwBPAEUATABIAE8ALQBQAEMAXABkAGEAcgBrAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMqtDIIanZ0SmmBj6nAo88/74GopD9ONY1NGsJcOVdg8x1ZYxhCEFiosCPDTDiKdgq0gUbGZi+FOWUAuDOtw6IxXybKwp1mkgJaXgO8fd4ovApFBYIfYs/KLvZ5sOy6nkR+997pAEkFjKNgarizXXdZWTNj9WDVCpHKraykLugHFAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAtvxdNs9yKwRGcho5Uha4ijsQTSHZ05ePhXxFRnTHqBswtBXcvKd0AXWz/zTRrIwXkeR6WFKjBdXfMd+PmHtsdTF+7QOlC1/awQEq6zW5vV2QeWVyGLa/1yImpu+MYPpKAQZ1fUORA+wjQulIfHhuBH4fF/dk8/j3wl38krtUNFI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

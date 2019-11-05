@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Basic Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Juego", "Juego\Juego.vbproj", "{558B5BEA-9159-4BC0-9B1E-4C6FCF04F6E9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{D7B3EEDE-687F-495A-953F-9C5DB826E9BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +17,13 @@ Global
 		{558B5BEA-9159-4BC0-9B1E-4C6FCF04F6E9}.Debug|x86.Build.0 = Debug|x86
 		{558B5BEA-9159-4BC0-9B1E-4C6FCF04F6E9}.Release|x86.ActiveCfg = Release|x86
 		{558B5BEA-9159-4BC0-9B1E-4C6FCF04F6E9}.Release|x86.Build.0 = Release|x86
+		{D7B3EEDE-687F-495A-953F-9C5DB826E9BF}.Debug|x86.ActiveCfg = Debug
+		{D7B3EEDE-687F-495A-953F-9C5DB826E9BF}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94DFB6B5-DC73-4D8D-B38C-C57EE6A960EB}
 	EndGlobalSection
 EndGlobal

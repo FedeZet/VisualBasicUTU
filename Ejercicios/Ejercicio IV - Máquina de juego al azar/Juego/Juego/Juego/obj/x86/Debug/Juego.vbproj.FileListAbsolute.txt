@@ -9,3 +9,17 @@ C:\Users\darkf\Desktop\Juego\Juego\Juego\bin\Debug\PokeRandom.xml
 C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.exe
 C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.xml
 C:\Users\darkf\Desktop\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.pdb
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.exe
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.xml
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.pdb
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\bin\Debug\PokeRandom.exe.manifest
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\bin\Debug\PokeRandom.application
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\bin\Debug\PokeRandom.exe
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\bin\Debug\PokeRandom.pdb
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\bin\Debug\PokeRandom.xml
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\Juego.vbprojAssemblyReference.cache
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\Juego.Main.resources
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\Juego.Resources.resources
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\Juego.vbproj.GenerateResource.cache
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.exe.manifest
+C:\Users\darkf\Documents\GitHub\Programming\Ejercicios\Ejercicio IV - Máquina de juego al azar\Juego\Juego\Juego\obj\x86\Debug\PokeRandom.application
